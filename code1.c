@@ -21,5 +21,6 @@ int main()
 			fprintf(stdout,"%d\t",array[outer]);
 		counter=0;
 	}
+	return 0;
 }
 
